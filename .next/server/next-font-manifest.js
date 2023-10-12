@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/workspaces/hacktober2023/app/layout":["static/media/ba5f7ed75552623e-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/workspaces/hack2023/app/layout":["static/media/ba5f7ed75552623e-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
