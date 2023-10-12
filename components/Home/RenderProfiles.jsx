@@ -10,12 +10,12 @@ export default function RenderProfiles() {
   // Sample JSON data to cosntruct a profile card
 
   // const profileData = {
-  //   name: 'Pushkar Yadav',
-  //   description: 'Dev | Lead @GDSC-RTU',
-  //   github: 'pushkarydv',
-  //   twitter: 'pushkaryadavin',
-  //   linkedin: 'pushkarydv',
-  //   portfolio: 'pushkaryadav.in',
+  //   name: 'Renuka Rajpuria',
+  //   description: 'Web-App Dev | UI/UX',
+  //   github: 'renuka-rajpuria',
+  //   twitter: 'twitter-id',
+  //   linkedin: 'renukarajpuria',
+  //   portfolio: 'https://renuka-rajpuria.github.io/portfolio/',
   // };
 
   return (

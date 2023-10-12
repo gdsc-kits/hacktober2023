@@ -42,18 +42,18 @@ function Header() {
         partnership with Github . 
       </p>
 
-      <div className='text-lg mt-4 font-bold'>How can i contribute?</div>
+      <div className='text-lg mt-4 font-bold'>How can I contribute?</div>
       <p>
         This is a beginner-friendly repo, we&apos;ve made a simple website where you can add your profile card and make your first contribution to open source and GitHub.
         <br />
         Go to{' '}
         <a
-          href='https://github.com/DSCRTUkota/hacktober2023/'
+          href='https://github.com/gdsc-kits/hacktober2023'
           className='underline underline-offset-2 text-sky-600'
           target='_blank'
           rel='noopener noreferrer'
         >
-          @DSCRTUkota/hacktober2023
+          @gdsc-kits/hacktober2023
         </a>{' '}
         and make a small change adding your profile into
         contributors/profiles.json and make a PR.

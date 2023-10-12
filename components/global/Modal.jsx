@@ -3,7 +3,7 @@ import React from 'react';
 
 import { RxCrossCircled } from 'react-icons/rx';
 
-const Modal = ({ isOpen, headerText = 'close', toggle, children }) => {
+const Modal = ({ isOpen, headerText = 'Close', toggle, children }) => {
   return (
     <div
       className={`fixed left-0 top-0 z-50 w-full h-screen overflow-x-auto flex-col justify-center items-center bg-white/20 backdrop-blur-xl  ${
