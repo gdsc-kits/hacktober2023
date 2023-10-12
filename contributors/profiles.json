@@ -1,25 +1,27 @@
 [
-    
-    {
-        "name": "GDSC Karunya",
-        "github": "gdsc-kits",
-        "linkedin": "gdsc-kits",
-        "description": "Hello Open Source Contributors"
-    },
+  {
+    "name": "GDSC Karunya",
+    "github": "gdsc-kits",
+    "linkedin": "gdsc-kits",
+    "description": "Hello Open Source Contributors"
+  },
 
-    {
-        "name": "Renuka Rajpuria",
-        "github": "renuka-rajpuria",
-        "linkedin": "renukarajpuria",
-        "description": "Web-App Dev | UI/UX"
-    },
-    {
-        "name": "Bewin Felix",
-        "github": "Bewin007",
-        "linkedin": "bewin-felix",
-        "description": "Web Developer"
-    }
-
+  {
+    "name": "Renuka Rajpuria",
+    "github": "renuka-rajpuria",
+    "linkedin": "renukarajpuria",
+    "description": "Web-App Dev | UI/UX"
+  },
+  {
+    "name": "Bewin Felix",
+    "github": "Bewin007",
+    "linkedin": "bewin-felix",
+    "description": "Web Developer"
+  },
+  {
+    "name": "Som Singh Lodhi",
+    "github": "SomSingh23",
+    "linkedin": "som-singh-lodhi-59b5b9226",
+    "description": "Open Source Contributor | Web Developer"
+  }
 ]
-
-  
