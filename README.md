@@ -1,6 +1,6 @@
 # GDSC x Hacktoberfest 2023
 
-Hello Everyone! Welcome to the GDSC-KITS x Hacktoberfest 2023 repository. This repository is open to all members of the GitHub community. Any member can contribute to this project! Feel free to add your profile datamake a Pull Request. We welcome all contributions. Happy coding! :)
+Hello Everyone! Welcome to the GDSC-KITS x Hacktoberfest 2023 repository. This repository is open to all members of the GitHub community. Any member can contribute to this project! Feel free to add your profile data and make a Pull Request. We welcome all contributions. Happy coding! :)
 
 ## What is Hacktoberfest 2023?
 Hacktoberfest 2023 is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
