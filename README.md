@@ -28,13 +28,3 @@ Here is a quick and painless way to contribute to this project:
 
 * Congrats! You have made a Pull Request and we will be merging it with the main branch soon.
 
-## GDSC Partners
-
-[`GDSC RTU`](https://gdsc.community.dev/rajasthan-technical-university-kota/)
-[`GDSC GBU`](https://gdsc.community.dev/gautam-buddha-university-greater-noida/)
-[`GDSC SDIET`](https://gdsc.community.dev/satyug-darshan-institute-of-engineering-technology/)
-[`GDSC JNU`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
-[`GDSC ACEM`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
-[`GDSC RCET`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
-[`GDSC FETJU`](https://gdsc.community.dev/fet-jain-university-bengaluru/)
-[`GDSC IIEST`](https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah/)
