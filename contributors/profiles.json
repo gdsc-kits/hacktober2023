@@ -5,7 +5,7 @@
         "github": "gdsc-kits",
         "linkedin": "gdsc-kits",
         "description": "Hello Open Source Contributors"
-    },
+    }
 
     {
         "name": "Renuka Rajpuria",
@@ -13,5 +13,12 @@
         "linkedin": "renukarajpuria",
         "description": "Web-App Dev | UI/UX"
     }
-
+    {
+     "name": "Aalla supriya",
+     "description": "Web-App Dev | UI/UX",
+     "github": "sippiammu",
+     "twitter": "twitter-id",
+     "linkedin": "Aallasupriya",
+     "portfolio": "https://github.com/sippiammu/hacktober2023",
+   }
 ]
