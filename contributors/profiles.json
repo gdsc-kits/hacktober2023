@@ -20,10 +20,19 @@
         "description": "Web Developer"
     },
     {
+
         "name": "Aarin Zacharia",
         "github": "aarinz",
         "linkedin": "aarin-zacharia-539b15278",
         "description": "Web dev"
+    },
+     {
+
+        "name": "Vasu Gangavarapu",
+        "github": "vasu1912",
+        "linkedin": "gangavarapu-venkata-vasu-5aa0a0285",
+        "description": "Coder"
+
     }
 
 ]
