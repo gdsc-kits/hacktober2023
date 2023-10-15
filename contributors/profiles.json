@@ -50,12 +50,23 @@
         "linkedin": "gangavarapu-venkata-vasu-5aa0a0285",
         "description": "Coder"
     },
+
+    {
+
+        "name": "Pratheesh Raj P L",
+        "github": "URK21CS1064",
+        "linkedin": "pratheesh-raj-p-l-822056235",
+        "description": "Coder"
+     
+    },
+
      {
 
         "name": "Ishan Chaskar",
         "github": "ishanchaskar",
         "linkedin": "ishanchaskar",
         "description": "Web Dev"
+
     }
 
 ]
