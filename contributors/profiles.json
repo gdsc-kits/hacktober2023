@@ -50,11 +50,53 @@
         "linkedin": "gangavarapu-venkata-vasu-5aa0a0285",
         "description": "Coder"
     },
+
     {
         "name": "Saroj Swadithya",
         "github": "saroj-swadithya",
         "linkedin": "SarojSwadithya",
         "description": "Web-Dev | Data Analyst | AI Dev"
+    },
+
+
+    {
+
+        "name": "Nadar Samuvel Bhaskar",
+        "github": "Samuvel-Bhaskar",
+        "linkedin": "nadar-samuvel-bhaskar",
+        "description": "App dev"
+    },
+      {
+
+        "name": "A JOSHUA ISAAC",
+        "github": "isaac-joshua",
+        "linkedin": "joshua-isaac-b77625239",
+        "description": "Coder"
+      },
+
+    {
+
+        "name": "Pratheesh Raj P L",
+        "github": "URK21CS1064",
+        "linkedin": "pratheesh-raj-p-l-822056235",
+        "description": "Coder"
+     
+    },
+
+     {
+
+        "name": "Ishan Chaskar",
+        "github": "ishanchaskar",
+        "linkedin": "ishanchaskar",
+        "description": "Web Dev"
+
+     },
+    {
+
+        "name": "Roshan John Renny Samuel",
+        "github": "RoshanJ20",
+        "linkedin": "roshan-john-a28973221",
+        "description": "Programmer | Web Dev | Data Science"
     }
 
 ]
