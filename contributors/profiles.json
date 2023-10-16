@@ -116,7 +116,7 @@
     {
         "name": "Anmol Mangaraj",
         "github": "anmol5936",
-        "linkedin": "https://www.linkedin.com/in/anmol-mangaraj-5722a4251/",
+        "linkedin": "anmol-mangaraj-5722a4251/",
         "description": "Coder || Web Dev || Block Chain"
     },
     {
@@ -126,7 +126,9 @@
         "linkedin": "bharath-kumar-bksquare",
         "description": "AI & DS | AI Developer"
     },
+    
     {
+
 
         "name": "Joe Freddie Cheeran",
         "github": "joefreddiecheeran",
@@ -139,6 +141,13 @@
         "github": "URK21CS2020AKASHNAIR",
         "linkedin": "https://www.linkedin.com/in/akash-nair-636142267/",
         "description": "Coder"
+    },
+  {
+        "name": "Jobin Shery Mathew",
+        "github": "jobin2201",
+        "linkedin": "jobin-shery-mathew",
+        "description": "Web Dev"
+
     }
 ]
 
