@@ -26,5 +26,4 @@ Here is a quick and painless way to contribute to this project:
 
 * Create a pull request by clicking on the Pull Request button on the top of your repository page.
 
-* Congrats! You have made a Pull Request and we will be merging it with the main branch soon.
-
+* Congrats! You have made a Pull Request and we will be merging it with the main branch soon..
